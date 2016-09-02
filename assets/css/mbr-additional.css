@@ -1,0 +1,1090 @@
+#header1-40 .btn {
+  font-size: 20px;
+  font-family: 'Varela Round', sans-serif;
+}
+#header1-40 H1 {
+  font-family: 'Varela Round', sans-serif;
+}
+#header1-40 P {
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-41 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-41.mbr-navbar--stuck .mbr-navbar__section {
+  background: #fef1ee;
+}
+#menu-41 .mbr-brand__name a {
+  color: #141412!important;
+  font-size: 18px;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: 500!important;
+}
+#menu-41 .mbr-navbar__items a {
+  display: block;
+  color: #141412;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: normal!important;
+  font-size: 14px!important;
+  letter-spacing: normal!important;
+  text-transform: uppercase!important;
+}
+#menu-41 .mbr-buttons--active .active a {
+  color: #141412!important;
+  /*border-bottom: 1px solid #220e10;
+  -moz-text-decoration: underline solid #7a77a3;
+  -ms-text-decoration: underline solid #7a77a3;
+  -o-text-decoration: underline solid #7a77a3;
+  -webkit-text-decoration: underline solid #7a77a3;
+  text-decoration: underline solid #7a77a3;*/
+}
+.thegdsapp {
+  color: #141412!important;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: normal!important;
+  font-size: 14px!important;
+}
+.thegdsapp h2 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.5em;
+  letter-spacing: .15em;
+  margin-bottom: 32px;
+  margin-top: 11px;
+  color: #7a77a2;
+  text-decoration: none;
+  font-weight: normal;
+  text-transform: uppercase!important;
+}
+.thegdsapp h3 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 16px;
+  letter-spacing: .15em;
+  margin-bottom: 32px;
+  margin-top: 11px;
+  color: #7a77a2;
+  text-decoration: none;
+  font-weight: normal;
+  text-transform: uppercase!important;
+}
+.gdsappfeatures h3 {
+  font-family: 'Varela Round', sans-serif;
+  margin-bottom: 0;
+  font-size: 27px;
+  letter-spacing: .15em;
+  color: #000000;
+}
+#features1-42 P {
+  text-align: center;
+}
+#features1-44 P {
+  text-align: center;
+  color: #141412;
+}
+#features1-44 H3 {
+  font-family: 'Varela Round', sans-serif;
+  color: #141412;
+}
+#msg-box5-46 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-46 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-46 .mbr-article {
+  color: #ffffff;
+}
+#features1-47 P {
+  color: #4c6972;
+  text-align: center;
+}
+#msg-box3-48 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-48 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-50 h2 {
+  color: #141412;
+}
+#msg-box2-50 p {
+  color: #141412;
+}
+
+.gdsvideotext {
+	margin-top:300px;
+}
+
+
+
+
+
+
+
+#content5-77 .caption h3 {
+  color: #fff;
+  font-size: 46px;
+  font-family: 'Varela Round', sans-serif;
+}
+#content5-77 P {
+  color: #fff;
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-59 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-59.mbr-navbar--stuck .mbr-navbar__section {
+  background: #395259;
+}
+#menu-59 .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-59 .mbr-navbar__items a {
+  font-family: 'Varela Round', sans-serif;
+}
+#image2-83 SMALL {
+  font-size: 17px;
+}
+#slider2-88 H1 {
+  color: #ffffff;
+}
+
+
+/* DON'T REMOVE THIS*/
+#aboutgds027 {
+	 background: url(../images/aboutbg.jpg); no-repeat center center fixed!important;
+	 -webkit-background-size: 100%!important; 
+     -moz-background-size: 100%!important; 
+     -o-background-size: 100%!important; 
+     background-size: 100%!important;
+	 -webkit-background-size:cover!important;
+	 -moz-background-size:cover!important;
+	 -o-background-size:cover!important;
+	 background-size:cover!important;
+}
+
+#aboutgds027 .btn {
+  font-size: 20px;
+  font-family: 'Varela Round', sans-serif;
+}
+#aboutgds027 H1 {
+  font-family: 'Varela Round', sans-serif;
+}
+#aboutgds027 P {
+  font-family: 'Varela Round', sans-serif;
+}
+
+#header1-73 {
+	 background: url(../images/aboutbg.jpg); no-repeat center center fixed!important;
+	 -webkit-background-size: 100%!important; 
+     -moz-background-size: 100%!important; 
+     -o-background-size: 100%!important; 
+     background-size: 100%!important;
+	 -webkit-background-size:contain!important;
+	 -moz-background-size:contain!important;
+	 -o-background-size:contain!important;
+	 background-size:contain!important;
+}
+#header1-73 .btn {
+  font-size: 20px;
+  font-family: 'Varela Round', sans-serif;
+}
+#header1-73 H1 {
+  font-family: 'Varela Round', sans-serif;
+}
+#header1-73 P {
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-74 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-74.mbr-navbar--stuck .mbr-navbar__section {
+  background: #395259;
+}
+#menu-74 .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-74 .mbr-navbar__items a {
+  font-family: 'Varela Round', sans-serif;
+}
+#features1-75 P {
+  text-align: center;
+}
+#features1-77 P {
+  text-align: center;
+  color: #ffffff;
+}
+#features1-77 H3 {
+  font-family: 'Varela Round', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-79 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-79 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-79 .mbr-article {
+  color: #ffffff;
+}
+#features1-80 P {
+  color: #4c6972;
+  text-align: center;
+}
+#msg-box3-81 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-81 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-83 h2 {
+  color: #141412;
+}
+#msg-box2-83 p {
+  color: #141412;
+}
+
+
+#menu-20 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-20.mbr-navbar--stuck .mbr-navbar__section {
+  background: #395259;
+}
+#menu-20 .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-20 .mbr-navbar__items a {
+  font-family: 'Varela Round', sans-serif;
+}
+#features1-21 P {
+  text-align: center;
+}
+#features1-23 P {
+  text-align: center;
+  color: #ffffff;
+}
+#features1-23 H3 {
+  font-family: 'Varela Round', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-25 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-25 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-25 .mbr-article {
+  color: #ffffff;
+}
+#features1-26 P {
+  color: #4c6972;
+  text-align: center;
+}
+#msg-box3-27 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-27 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-29 h2 {
+  color: #141412;
+}
+#msg-box2-29 p {
+  color: #141412;
+}
+
+
+
+
+#content5-92 .caption h3 {
+  color: #fff;
+  font-size: 46px;
+  font-family: 'Varela Round', sans-serif;
+}
+#content5-92 P {
+  color: #fff;
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-93 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-93.mbr-navbar--stuck .mbr-navbar__section {
+  background: #395259;
+}
+#menu-93 .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Varela Round', sans-serif;
+}
+#menu-93 .mbr-navbar__items a {
+  font-family: 'Varela Round', sans-serif;
+}
+#features1-108 .thumbnail .image img {
+  max-width: 100%;
+}
+#image2-97 SMALL {
+  font-size: 17px;
+}
+#image2-111 SMALL {
+  font-size: 20px;
+}
+#image2-113 SMALL {
+  font-size: 20px;
+}
+#image2-114 SMALL {
+  font-size: 20px;
+}
+#msg-box3-117 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-117 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-117 .mbr-article P {
+  text-align: left;
+}
+
+/***** Video background  *****/
+
+/* Settings - feel free to play with these */
+$overlay_opacity: 0.9; // 0-1
+$overlay_pattern: 'assets/images/black-medium-checks.png'; // Grab the url of a png from here - http://html5backgroundvideos.com/pattern-overlays/
+
+
+/**
+ * This part should be set separately for each video
+ * if there are multiple videos in your site.
+ * I.e. '.demo-video-wrapper' is the name of this particular video
+ */
+.demo-video-wrapper {
+	background-image: url(assets/images/blurred.jpg);
+}
+
+/* Video overlay and content */
+.video-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	pointer-events: none; /* Allows right click menu on the video */
+	background: url(../images/black-medium-checks.png) left top repeat;
+    opacity: $overlay_opacity;
+}
+.video-hero--content {
+	position: relative;
+	text-align: center;
+	color: #FFF;
+    margin: 150px 0;
+	text-shadow: 0 0 5px rgba(0,0,0,0.4);
+}
+.video-hero--content h2 {
+	font-family: 'Varela Round', sans-serif;
+	margin: 0 0 10px;
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 36px;
+}
+.video-hero--content p {
+	font-size: 20px;
+	margin: 0;
+}
+
+video {
+	width: 100%;
+}
+
+/* Other stuff */
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+.cf:after {
+    clear: both;
+}
+.page-width {
+	width: 92%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+#header {
+	background: #2c2d33;
+	padding: 2em 0;
+}
+#header a {
+	color: #FFF;
+}
+.title {
+	display: block;
+	font-weight: bold;
+	font-size: 18px;
+}
+.subtitle {
+	display: block;
+	font-weight: normal;
+	font-size: 15px;
+	color: #959699;
+}
+a:hover .subtitle {
+	color: #FFF;
+}
+#site-title {
+	float: left;
+	margin: 0;
+}
+#content {
+	padding: 40px 0;
+}
+
+
+/* CSS from jQuery Background Video plugin */
+/**
+ * Set default positioning as a fallback for if the plugin fails
+ */
+.jquery-background-video-wrapper {
+	position: relative;
+	overflow: hidden;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+	    	background-size: cover;
+}
+.jquery-background-video {
+	position: absolute;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	top: 50%;
+	left: 50%;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-webkit-transform: translate(-50%,-50%);
+	   -moz-transform: translate(-50%,-50%);
+	    -ms-transform: translate(-50%,-50%);
+	     -o-transform: translate(-50%,-50%);
+	    	transform: translate(-50%,-50%);
+}
+/**
+ * Fade in videos
+ * Note the .js class - so non js users still
+ * see the video
+ */
+.js .jquery-background-video {
+	opacity: 0;
+	-webkit-transition: opacity 300ms linear;
+			transition: opacity 300ms linear;
+}
+.js .jquery-background-video.is-visible {
+	opacity: 1;
+}
+
+/**
+ * Pause/play button
+ */ 
+.jquery-background-video-pauseplay {
+	display: none;
+	position: absolute;
+	background: transparent;
+	border: none;
+	box-shadow: none;
+	width: 20px;
+	height: 20px;
+	top: 15px;
+	right: 15px;
+	padding: 0;
+	cursor: pointer;
+	outline: none !important;
+}
+.jquery-background-video-pauseplay span {
+	display: none;
+}
+.jquery-background-video-pauseplay:after,
+.jquery-background-video-pauseplay:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	-webkit-transition: all .3s ease;
+			transition: all .3s ease;
+}
+.jquery-background-video-pauseplay.play:before {
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-left: 15px solid #FFF;
+}
+.jquery-background-video-pauseplay.pause:before,
+.jquery-background-video-pauseplay.pause:after {
+	border-top: 10px solid #FFF;
+	border-bottom: 10px solid #FFF;
+	border-left: 5px solid #FFF;
+}
+.jquery-background-video-pauseplay.pause:after {
+	left: 10px;
+}
+
+/*.back-to-top {
+cursor: pointer;
+position: fixed;
+bottom: 0;
+right: 20px;
+display:none;
+} */
+
+.back-to-top {
+    z-index: 99;
+	cursor: pointer;
+	display: none;
+    position: fixed;
+    bottom: 18px;
+    right: 15px;
+    color: #fef1ee;
+    background-color: #7a77a2;
+    border-color: #ffffff;
+}
+
+.back-to-top i {
+    display: block;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    color: #fff;
+    border-radius: 2px;
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    text-align: center;
+    background-color: #444;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.back-to-top:hover i {
+    background-color: #ee3733;
+}
+
+#loader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	z-index: 99999999999;
+}
+
+	.spinner {
+  margin: 100px auto;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  text-align: center;
+  
+  -webkit-animation: rotate 2.0s infinite linear;
+  animation: rotate 2.0s infinite linear;
+}
+.dot1 {
+  width: 60%;
+  height: 60%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  background-color: #7a77a2;
+  border-radius: 100%;
+  
+  -webkit-animation: bounce 2.0s infinite ease-in-out;
+  animation: bounce 2.0s infinite ease-in-out;
+}
+
+.dot2 {
+  width: 60%;
+  height: 60%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  background-color: #fef1ee;
+  border-radius: 100%;
+  
+  -webkit-animation: bounce 2.0s infinite ease-in-out;
+  animation: bounce 2.0s infinite ease-in-out;
+}
+
+.dot2 {
+  top: auto;
+  bottom: 0px;
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+@-webkit-keyframes rotate { 100% { -webkit-transform: rotate(360deg) }}
+@keyframes rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
+@-webkit-keyframes bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+@keyframes bounce {
+  0%, 100% { 
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+
+/***** My Five Columns Bootstrap Hack ****/
+/** from https://coderwall.com/p/wo1f-g/five-equal-columns-in-bootstrap-3 **/
+
+@media  (min-width: 1501px) {
+    .marginoffset {
+	padding-left: 20%;
+	padding-right: 20%; 
+	}
+}
+
+@media  (max-width: 1492px) {
+    #theappsplash {
+		font-size: 90%;
+	}
+	#theappsplash h3 {
+		font-size: 90%;
+	}
+}
+
+@media  (min-width: 1501px) and (max-width: 1900px) {
+	.content-2 .thumbnail h3 {
+    min-height: 100px;
+	}
+}
+
+@media  (min-width: 1201px) and (max-width: 1500px) {
+    .marginoffset {
+	padding-left: 15%;
+	padding-right: 15%; 
+	}
+	.content-2 .thumbnail h3 {
+    min-height: 100px;
+	}
+}
+
+@media (max-width: 1024px) {
+
+	#menudownloadbtn {
+		/*color: #ffffff!important;*/
+		border: none;
+	}
+	#menudownloadbtn:hover {
+		background: #7976a1!important;
+		background-color: #7976a1!important;
+		color: #ffffff!important;
+	}
+	
+}
+
+@media  (min-width: 320px) and (max-width: 1360px) {
+    #header1-43ace h3 {
+		font-size: 85%!important;
+	}
+	#header1-43ace p {
+		font-size: 85%!important;
+	}
+	#header1-43ace .mbr-buttons__btn, .mbr-buttons__link {
+		margin: 0 4px 6px 0!important;
+		font-size: 10px!important;
+		letter-spacing: normal!important;
+	}
+	#header1-43ace .mbr-buttons {
+		top: 2px!important;
+	}
+}
+
+
+@media  (min-width: 1025px) and (max-width: 1200px) {
+    .marginoffset {
+	padding-left: 12%;
+	padding-right: 12%; 
+	}
+	.content-2 .thumbnail h3 {
+    min-height: 110px;
+	}
+}
+
+
+@media  (min-width: 993px) and (max-width: 1024px) {
+    .marginoffset {
+	padding-left: 8%;
+	padding-right: 8%; 
+	}
+	.content-2 .thumbnail h3 {
+    min-height: 100px;
+	}
+}
+
+@media  (max-width: 991px) {
+    #gdsmenudivider {
+		display: none!important;
+	}
+	.gdslogin {
+		margin: 0 auto!important;
+	}
+	.gdsdownload {
+		margin: 0 auto!important;
+	}
+	.gdsdownloadbtn {
+		position: relative;
+		top: 50px!important;
+		text-align: left;
+		margin-left: 0;
+		width: 60%;
+		height: 60%;
+	}
+}
+
+
+@media  (max-width: 992px) {
+    .content-2 .thumbnail h3 a {
+    font-size: 12px;
+    letter-spacing: .10em;
+	}
+	.gdsfrontcarousel {
+		display:none!important;
+	}
+	
+}
+
+@media  (min-width: 992px) {
+    .content-2 .thumbnail a {
+      font-size: 14px;
+    }
+}
+
+@media  (min-width: 768px) and (max-width: 992px) {
+    .marginoffset {
+	padding-left: 10%;
+	padding-right: 10%; 
+	}
+	.content-2 .thumbnail a {
+      font-size: 12px;
+    }
+	.content-2 .thumbnail h3 {
+    min-height: 100px;
+	}
+}
+
+
+@media  (min-width: 768px) {
+	.col-sm-7 .five-three {
+    width: 60% !important;
+    }
+
+    .col-sm-5 .five-two {
+    width: 40% !important;
+    }
+}
+
+@media  (max-width: 768px) {
+	.col-sm-6 .thumbnail .image {
+     max-height: 100%;
+	 margin-bottom:200px;
+   }
+   .content-2 .thumbnail h3 a {
+    font-size: 16px;
+    letter-spacing: .10em;
+	}
+	
+	#menu-41 .mbr-navbar__items a {
+  		color: #141412!important;
+	}
+	#menu-41 .mbr-navbar__items a:hover {
+  		color: #7a77a3!important;
+	}
+	#menudownloadbtn:hover {
+  		color: #ff0000!important;
+	}
+	.fullgdsfeatures {
+		background: rgba(67, 65, 101, 0.5);
+	}
+	.gdscontent p {
+		padding: 0 20px;
+	}
+	#gdsfeature01 .gdscontent {
+		font-size: 95%!important;
+	}
+	.gdscontent h3 {
+		font-size: 20px!important;
+	}
+	.featurestitle {
+		font-size: 18px!important;
+	}
+	.featurestext {
+		font-size: 95%!important;
+	}
+	#gdsfeature02 .gdscontent {
+		font-size: 95%!important;
+	}
+
+}
+
+@media  (min-width: 481px) and (max-width: 992px) {
+    .gdsfeatureslidetext {
+		width: 200px!important;
+		min-width: 200px!important;
+		max-width: 200px!important;
+		padding: 10px 0 0 0!important;
+		font-size: 14px!important;
+		line-height: 14px!important;
+	}
+}
+
+@media  (max-width: 480px) {
+    .col-sm-5 .five-two {
+    width: 40% !important;
+    }
+	.col-sm-5 .five-three {
+    width: 40% !important;
+    }
+	.content-2 .thumbnail a {
+      font-size: 14px;
+    }
+	.gdsfeatures01 {
+		padding-top:40px;
+	}
+	.gdsfeaturestitle {
+		font-size:16px!important;
+		margin-bottom:22px;
+		color:#000000!important;
+	}
+	
+	.gdsfeaturestext {
+		font-size:12px!important;
+		color:#000000!important;
+	}
+	.gdsfeaturesindicators {
+	 /*bottom:0!important;*/
+	 display: none;
+	}
+	.gdsfeatures02 {
+		margin-top:-30px!important;
+	}
+	
+	.gdsfeaturestitle2 {
+		font-size:22px!important;
+		color:#000000!important;
+	}
+	
+	.gdsfeaturestext2 {
+		font-size:16px!important;
+		padding:0 32px!important;
+		color:#000000!important;
+	}
+	.gdsfooter {
+		padding-left:50px!important;
+	}
+	.gdsfrontcarousel {
+		display:none!important;
+	}
+	.gdsfeatureslidetext {
+		max-width: 180px;
+		padding-top: 10px;
+		font-size: 12px!important;
+		line-height: 12px!important;
+	}
+	#back-to-top {
+		display: none!important;
+	}
+	.titlegdsfeatures {
+		font-size:20px!important;
+		margin-bottom:22px;
+	}
+	
+	.textgdsfeatures {
+		font-size:14px!important;
+		max-width:300px;
+	}
+
+	.theapptext1 {
+		max-width:320px!important;
+	}
+	.gdsdownloadbtn a {
+		padding-right:10px;
+	}
+	.mbr-slider > .container img {
+		width; 85%;
+	}
+	
+}
+
+@media (max-width: 767px) {
+
+	.theappbox {
+		padding:70px 50px 0 0!important;
+	}
+	.gdsvideotext {
+		margin-top:120px;
+	}
+
+}
+
+#menudownloadbtn {
+	/*border-color:#7a77a2;*/
+	border: none;
+}
+
+#menudownloadbtn:focus {
+	background-color: none;
+}
+#menudownloadbtn:visited {
+	background-color: none;
+}
+
+.form-control::-webkit-input-placeholder { color: #7a77a2; }
+.form-control:-moz-placeholder { color: #7a77a2; }
+.form-control::-moz-placeholder { color: #7a77a2; }
+.form-control:-ms-input-placeholder { color: #7a77a2; }
+
+.gdsfeaturestitle {
+	font-size:24px;
+	margin-bottom:22px;
+	color:#7a77a2;
+}
+
+.gdsfeaturestext {
+	color:#7a77a2;
+	font-size:16px;
+}
+
+.gdsfeatures02 {
+	color:#7a77a2;
+	padding:0 20px;
+	margin-top:-230px;
+	margin-left:20px;
+}
+
+.gdsfeaturestitle2 {
+	font-size:22px;
+	margin-bottom:22px;
+}
+
+.gdsfeaturestext2 {
+	color:#7a77a2;
+	font-size:16px;
+}
+
+.gdsfeatureslidetext {
+	line-height:26px;
+	text-align:justify;
+	padding:0 20px;
+}
+
+.theappbox {
+	padding-left: 60px;
+}
+
+#gdsfrontfeatures-80 {
+	background: #ffffff;
+	background-color: #ffffff;
+	min-height: 400px;
+	text-align: center;
+	padding-top: 120px;
+}
+
+#gdsfrontfeatures-80 h3 {
+	color: #282828;
+	font-size: 16px;
+	text-align: center;
+	margin: 0;
+	min-height: 40px;
+}
+
+#gdsfrontfeatures-80 p {
+    font-size: 13px;
+	color: #282828;
+    text-align: center;
+	margin: 20px 0 0 0;
+	padding: 0 30px 0 30px;
+}
+
+.middlefeature {
+    border-left: solid 1px #c5c5c5;
+	border-right: solid 1px #c5c5c5;
+}
+
+#gdsmainview01 {
+	background-color: rgb(67, 65, 101);
+	max-height:562px;
+}
+
+#header1-43ace h3 {
+	color: #ffffff;
+	font-size: 21px;
+	text-align: left;
+	margin: 0;
+}
+
+#header1-43ace p {
+	font-size: 14px;
+	color: #ffffff;
+    text-align: left;
+	margin: 20px 0 0 0;
+}
+
+.mbr-reviews__p {
+  margin: 0;
+  color: #585757;
+  font-size: 14px;
+}
+
+.gdslogin {
+	margin-right:-25px;
+}
+.gdsdownload {
+	margin-left:-15px;
+}
+
+.gdsdownloadbtn {
+	position: relative;
+	top: 180px;
+	left: 50px;
+}
+
+.featurestitle {
+	font-size: 20px;
+	font-family: 'Varela Round', sans-serif;
+	letter-spacing: normal;
+	color: #000000;
+	font-weight: normal;
+}
+
+.featurestext {
+	font-family: 'Open Sans','Varela Round', sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+	font-weight: 300;
+    color: #525252;
+	text-align: left;
+}
+
+#theappsplash h3 {
+	font-family: 'Varela Round', sans-serif;
+    font-size: 28px;
+    line-height: 1.42857143;
+	font-weight: normal;
+    color: #ffffff;
+}
+
+.appsplashleftcontent {
+	padding-left: 13%;
+	padding-top:5%;
+	padding-right:20px;
+}
+
